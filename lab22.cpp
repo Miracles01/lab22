@@ -1,4 +1,5 @@
 // [Missing Code 1] Include header file.
+#include "lab22.h"
   
 int main(){
 	srand(time(0));
